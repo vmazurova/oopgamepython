@@ -1,7 +1,5 @@
 from tkinter import *
 
-GAME_WIDTH = 700
-GAME_HEIGHT = 700
 SPEED = 50 #snake class
 SPACE_SIZE = 50
 BODY_PARTS = 3 #snake class
