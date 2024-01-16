@@ -36,4 +36,5 @@ window.title("Snake Hra")
 window.resizable(False, False)
 score = 0
 label = Label(text="Score{}".format(score))
+window.geometry("700x700")
 window.mainloop()
