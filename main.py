@@ -3,7 +3,7 @@ from tkinter import *
 SPEED = 50 #snake class
 SPACE_SIZE = 50
 BODY_PARTS = 3 #snake class
-SNAKE_COLOR = "#8532a8" #snake class
+SNAKE_COLOR = "#8532a8" #snake class jaja
 FOOD_COLOR = "#f5cc02" #jidlo class
 BACKGROUND_COLOR = "#000000"
 
